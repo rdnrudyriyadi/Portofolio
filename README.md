@@ -1,6 +1,9 @@
 # Portofolio
 ## Hi there 👋 I'm Rudy,
-My previous role as SQA Lead and I have over more than 7 years of experience in quality assurance, working across various industries, including Hospital, Banking and Online Travel Agent . Having knowledege manual test, Integration test, UAT test, API test using Postman, Automation test using Katalon, Selenium, Appium, Cypress. Agile methodologies, scrum ceremonies (Backlog Grooming, Sprint Planning, Sprint Restrospective, etc.) and for the tools Jira, Confluence, Figma, TestRail, Firebase Crashlytic
+I’m a Software Quality Assurance Engineer Lead with 7+ years of experience in manual and automation testing. I
+specialize in testing, leading teams, and ensuring timely, high-quality deliveries and improving product quality across
+industries such as banking, healthcare, and online travel. Skilled in Agile methodologies, API testing, Mobile Apps,
+Mobile Web and Desktop testing. Strong communication skills
 
 <!--
 **rudyriyadi/rudyriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
