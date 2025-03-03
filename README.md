@@ -1,4 +1,4 @@
-# Portoflio
+# Portfolio
 ## Hi there 👋 
 I’m a Software Quality Assurance Engineer Lead with 7+ years of experience in manual and automation testing. I
 specialize in testing, leading teams, and ensuring timely, high-quality deliveries and improving product quality across
